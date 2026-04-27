@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "portfolio-ayush-kumar"
+  },
+  "targets": {
+    "portfolio-ayush-kumar": {
+      "hosting": {
+        "mindtrack": ["mindtrack-ai-app"]
+      }
+    }
+  }
+}
